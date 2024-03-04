@@ -1,6 +1,6 @@
 const userData = [
-    {"email":"mariam@gmail.com","password":"123456","name":"John Doe","role":"student"},
-    {"email":"feras.qpqp@gmail.com","password":"123456","name":"John Doe","role":"lecturer"}
+    {"email":"maria@gmail.com","password":"123456","name":"John Doe","role":"student"},
+    {"email":"SamMariam@gmail.com","password":"123456","name":"John Doe","role":"lecturer"}
   ];
 
   function fillCredentials(role) {
